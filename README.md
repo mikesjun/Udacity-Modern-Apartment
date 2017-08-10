@@ -2,7 +2,9 @@
 Michael Jun - Course 2 - Project Modern Apartment
 
 Minimum API Level: 6.0
+
 Unity Version: 5.5.1f1
+
 Google VR Version 2.0, January 2004
  (Included in Starter Project zip)
 

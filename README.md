@@ -10,9 +10,13 @@ Google VR Version 2.0, January 2004
 
 --------------------------------------------------
 
-3D Studio Max 2017  --  Made 3D models for the lampshade and the bed.
+3D Studio Max 2017  
+--  Made 3D models for the lampshade and the bed.
 
 --  Added sound of rain in background
+
 --  Added rainstorm effects using free asset
+
 --  Globe rotates on Y-axis using C# script (instead of the Unity animations)
+
 --  Trigger activates teleport around apartment and start/stop of globe.

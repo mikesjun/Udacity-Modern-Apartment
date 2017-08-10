@@ -10,8 +10,7 @@ Google VR Version 2.0, January 2004
 
 --------------------------------------------------
 
-3D Studio Max 2017  
---  Made 3D models for the lampshade and the bed.
+3D Studio Max 2017  --  Made 3D models for the lampshade and the bed.
 
 --  Added sound of rain in background
 
